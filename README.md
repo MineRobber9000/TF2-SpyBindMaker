@@ -1,2 +1,2 @@
 # TF2-SpyBindMaker
-A disguise bind maker for the TF2 Spy.
+A config file maker for TF2.
